@@ -18,6 +18,7 @@
 - Visual Studio Code
 - Linux ( rasberry pi 4 )
 <br />
+
 # 내가 맡은 부분
 
 - 번호판 인식
